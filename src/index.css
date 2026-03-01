@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #cbdba4e5;
+  font-family: Inter, system-ui, Arial, sans-serif;
+  min-height: 100vh;
+}
